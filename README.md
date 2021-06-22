@@ -20,10 +20,10 @@ Accuracy: 0.9978365
     1       1.00      1.00      1.00      2114
 
 
-![Predictor Interface](https://github.com/edologgerbird/fake-news-classifier/blob/main/assets/form1.png "Predictor Interface")
+![Predictor Interface](https://github.com/edologgerbird/portfolio/blob/main/assets/fake-news-form1.png "Predictor Interface")
 
 
-![Predictor Interface](https://github.com/edologgerbird/fake-news-classifier/blob/main/assets/form2.png "Predictor Interface")
+![Predictor Interface](https://github.com/edologgerbird/portfolio/blob/main/assets/fake-news-form2.png "Predictor Interface")
 
 
 ## Project 2: Malaria Classifier from Cell Image
@@ -36,4 +36,4 @@ Accuracy: 0.9978365
 - AUC Score on test set: 0.9843
 
 
-![Example](https://github.com/edologgerbird/malaria-classification/blob/main/examples.png "Example")
+![Example](https://github.com/edologgerbird/portfolio/blob/main/assets/malaria-examples.png "Example")
