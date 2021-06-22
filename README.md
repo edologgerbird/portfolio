@@ -1,6 +1,6 @@
 # Data Science Portfolio
  
-## Fake News Classifier (USA Presidential Elections 2016)
+## Project 1: Fake News Classifier (USA Presidential Elections 2016)
 
 - Developed models to classify if a given news article related to the USA Presidential Election 2016 is fake or reliable news. Positive class indicates fake news and negative class indicates reliable news.
 - Constructed the model based on the Kaggle Fake News Dataset which contains 20800 labeled news articles, of which about half are fake news articles and the other half are reliable news articles.
@@ -24,3 +24,16 @@ Accuracy: 0.9978365
 
 
 ![Predictor Interface](https://github.com/edologgerbird/fake-news-classifier/blob/main/assets/form2.png "Predictor Interface")
+
+
+## Project 2: Malaria Classifier from Cell Image
+
+- Developed an classifier to identify if a given cell is uninfected or parasitised by malaria based on an image of the cell.
+- Utilised the Malaria dataset from the Tensorflow Datasets package.
+- Constructed tensors representing the cell images
+- Trained a Deep Learning model using containing dense and convolutional neural network layers
+- Accuracy on test set: 0.9427
+- AUC Score on test set: 0.9843
+
+
+![Example](https://github.com/edologgerbird/malaria-classification/blob/main/examples.png "Example")
