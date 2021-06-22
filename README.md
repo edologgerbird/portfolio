@@ -1,4 +1,7 @@
-# Data Science Portfolio
+# Edmund's Data Science Portfolio
+
+
+
  
 ## Project 1: Fake News Classifier (USA Presidential Elections 2016)
 
