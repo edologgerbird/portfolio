@@ -35,5 +35,16 @@ Accuracy: 0.9978365
 - Accuracy on test set: 0.9427
 - AUC Score on test set: 0.9843
 
-
 ![Example](assets/malaria-examples.png "Example")
+
+## Project 3: Monthly Salary Estimator for Data-related Jobs in Singapore
+
+- Developed an estimator for the month salary of data-related jobs in Singapore (MAE ~ S$1345) to help jobseekers in the field of data negotiate their income upon landing the job.
+- Scraped about 300 job descriptions from MyCareersFuture using Python and Selenium
+- Created features from the open-text job descriptions to quantify the value companies put on relevant technologies related to data science (AWS, Python, SQL, R, Tableau, Excel, Powerbi, Spark, Hadoop, Tensorflow).
+- Created models using common job parameters and the features from the job description using 5 regression models (Multiple Linear, Lasso, Random Forest, Gradient Boosting and Bootstrap Aggregation) tuned with GridsearchCV.
+- Built a client facing UI using Flask API, WTForms and Jinja2.
+
+![Predictor Interface](assets/salary-pred1.png "Predictor Interface")
+
+![Predictor Interface](assets/salary-pred2.png "Predictor Interface")
