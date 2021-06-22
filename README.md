@@ -3,7 +3,7 @@
 
 
  
-[## Project 1: Fake News Classifier (USA Presidential Elections 2016)] (https://github.com/edologgerbird/fake-news-classifier)
+## [Project 1: Fake News Classifier (USA Presidential Elections 2016)](https://github.com/edologgerbird/fake-news-classifier)
 
 - Developed models to classify if a given news article related to the USA Presidential Election 2016 is fake or reliable news. Positive class indicates fake news and negative class indicates reliable news.
 - Constructed the model based on the Kaggle Fake News Dataset which contains 20800 labeled news articles, of which about half are fake news articles and the other half are reliable news articles.
