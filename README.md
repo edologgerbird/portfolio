@@ -3,7 +3,7 @@
 
 
  
-## Project 1: Fake News Classifier (USA Presidential Elections 2016)
+## [Project 1: Fake News Classifier (USA Presidential Elections 2016)] (https://github.com/edologgerbird/fake-news-classifier)
 
 - Developed models to classify if a given news article related to the USA Presidential Election 2016 is fake or reliable news. Positive class indicates fake news and negative class indicates reliable news.
 - Constructed the model based on the Kaggle Fake News Dataset which contains 20800 labeled news articles, of which about half are fake news articles and the other half are reliable news articles.
@@ -28,9 +28,9 @@ Accuracy: 0.9978365
 
 ![Predictor Interface](assets/fake-news-form2.png "Predictor Interface")
 
-Access this project here: https://github.com/edologgerbird/fake-news-classifier
 
-## Project 2: Malaria Classifier from Cell Image
+
+## [Project 2: Malaria Classifier from Cell Image] (https://github.com/edologgerbird/malaria-classification)
 
 - Developed an classifier to identify if a given cell is uninfected or parasitised by malaria based on an image of the cell.
 - Utilised the Malaria dataset from the Tensorflow Datasets package.
@@ -42,10 +42,9 @@ Access this project here: https://github.com/edologgerbird/fake-news-classifier
 ![Example](assets/malaria-examples.png "Example")
 
 
-Access this project here: https://github.com/edologgerbird/malaria-classification
 
 
-## Project 3: Monthly Salary Estimator for Data-related Jobs in Singapore
+## [Project 3: Monthly Salary Estimator for Data-related Jobs in Singapore] (https://github.com/edologgerbird/salary_pred)
 
 - Developed an estimator for the month salary of data-related jobs in Singapore (MAE ~ S$1345) to help jobseekers in the field of data negotiate their income upon landing the job.
 - Scraped about 300 job descriptions from MyCareersFuture using Python and Selenium
@@ -57,10 +56,8 @@ Access this project here: https://github.com/edologgerbird/malaria-classificatio
 
 ![Predictor Interface](assets/salary-pred2.png "Predictor Interface")
 
-Access this project here: https://github.com/edologgerbird/salary_pred
 
-
-## Project 4: S&P500 Closing Price Forecast
+## [Project 4: S&P500 Closing Price Forecast] (https://github.com/edologgerbird/SP500-forecast)
 
 - Developed a forecasting tool using Auto-ARIMA and FBProphet to forecast future closing prices of the S&P 500 
 - Forecasting tool is trained from the past 5 years of closing prices.
