@@ -25,6 +25,7 @@ Accuracy: 0.9978365
 
 ![Predictor Interface](assets/fake-news-form2.png "Predictor Interface")
 
+Access this project here: https://github.com/edologgerbird/fake-news-classifier
 
 ## Project 2: Malaria Classifier from Cell Image
 
@@ -36,6 +37,10 @@ Accuracy: 0.9978365
 - AUC Score on test set: 0.9843
 
 ![Example](assets/malaria-examples.png "Example")
+
+
+Access this project here: https://github.com/edologgerbird/malaria-classification
+
 
 ## Project 3: Monthly Salary Estimator for Data-related Jobs in Singapore
 
@@ -49,6 +54,8 @@ Accuracy: 0.9978365
 
 ![Predictor Interface](assets/salary-pred2.png "Predictor Interface")
 
+Access this project here: https://github.com/edologgerbird/salary_pred
+
 
 ## Project 4: S&P500 Closing Price Forecast
 
@@ -59,3 +66,7 @@ Accuracy: 0.9978365
 ![Predictor Interface](assets/sp-forecast-screenshot0.png "Predictor Interface")
 
 ![Predictor Interface](assets/sp-forecast-screenshot1.png "Predictor Interface")
+
+
+
+Access this project here: https://github.com/edologgerbird/SP500-forecast
