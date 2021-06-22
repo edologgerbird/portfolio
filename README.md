@@ -48,3 +48,14 @@ Accuracy: 0.9978365
 ![Predictor Interface](assets/salary-pred1.png "Predictor Interface")
 
 ![Predictor Interface](assets/salary-pred2.png "Predictor Interface")
+
+
+## Project 4: S&P500 Closing Price Forecast
+
+- Developed a forecasting tool using Auto-ARIMA and FBProphet to forecast future closing prices of the S&P 500 
+- Forecasting tool is trained from the past 5 years of closing prices.
+- Auto-ARIMA model has a Mean Absolute Percentage Error of 0.004912, which means that the model predicted the correct prices 99.5% of the time when tested against the validation period.
+
+![Predictor Interface](assets/sp-forecast-screenshot0.png "Predictor Interface")
+
+![Predictor Interface](assets/sp-forecast-screenshot1.png "Predictor Interface")
